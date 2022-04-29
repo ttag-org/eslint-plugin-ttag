@@ -4,6 +4,8 @@
 
 It is not a good practice to use ttag variables declaration on a module scope. Such as:
 
+***BAD:***
+
 ```js
 import { t } from 'ttag';
 
@@ -11,6 +13,9 @@ const text = t`hello`;
 ```
 
 Reason for this is that `t` function will be called once, and language switch will not have effect on those variables. Instead you should consider to use something like
+
+
+***GOOD:***
 
 ```js
 import { t } from 'ttag';
