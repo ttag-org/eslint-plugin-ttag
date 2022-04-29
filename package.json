@@ -29,7 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/ttag-org/eslint-plugin-ttag.git"
   },
-  "author": "",
+  "author": "alexander",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ttag-org/eslint-plugin-ttag/issues"
