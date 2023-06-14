@@ -10,7 +10,7 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-deprecate`:
+Next, install `eslint-plugin-ttag`:
 
 ```
 $ npm install eslint-plugin-ttag --save-dev
