@@ -44,4 +44,4 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * [ttag/no-module-declaration](docs/rules/no-module-declaration.md): Warn about ttag tags and functions declaration on a module scope.
-* [ttag/no-start-and-trailing-spaces-in-translations](docs/rules/no-start-and-trailing-spaces-in-translations.md): Warn about ttag tags and functions declaration on a module scope.
+* [ttag/no-start-and-trailing-spaces-in-translations](docs/rules/no-start-and-trailing-spaces-in-translations.md): Wan about spaces on translations start and end (bad practice to control indentation)
