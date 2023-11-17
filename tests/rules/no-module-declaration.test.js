@@ -6,7 +6,7 @@ const parserOptions = { ecmaVersion: 6, sourceType: "module" };
 const ruleTester = new RuleTester();
 const filename = 'packages/test/some/file.js';
 
-ruleTester.run('no-cross-import', rule, {
+ruleTester.run('no-module-declaration', rule, {
     valid: [
         // t
         {
